@@ -1,12 +1,13 @@
 /* I am not proud of this but it's the best I could do as of right now. My ability to manipulate, position, and style
-elements is still ugh. My understanding of how divs, classes, and id's work together is still vague. 
+elements is still ugh. My understanding of how divs, classes, and id's work together is still not clear enough in practice.
+I know what they can do but applying them isn't clear enough.  
 
 For example, I thought I created different distint containers for both the main content and the links for github, 
 linkedin, and stack overflow. However, when I tried to adjust one of those containers, BOTH containers were 
 altered. That made no sense to me. I thought each container could be edited independently from another so clearly there
 is something I'm not noticing. I named them differently, so... not sure what is going on there. 
 
-I'm setting up tutoring sessions and I'll stick at it. */
+I'm setting up tutoring sessions and will keep at it. */
 
 
 body {

@@ -1,3 +1,14 @@
+/* I am not proud of this but it's the best I could do as of right now. My ability to manipulate, position, and style
+elements is still ugh. My understanding of how divs, classes, and id's work together is still vague. 
+
+For example, I thought I created different distint containers for both the main content and the links for github, 
+linkedin, and stack overflow. However, when I tried to adjust one of those containers, BOTH containers were 
+altered. That made no sense to me. I thought each container could be edited independently from another so clearly there
+is something I'm not noticing. I named them differently, so... not sure what is going on there. 
+
+I'm setting up tutoring sessions and I'll stick at it. */
+
+
 body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 18px;
@@ -25,6 +36,7 @@ h3,
 p {
   margin: 0 0 10px;
   margin-top: 44px;
+  
 }
 
 /*p:last-child {
@@ -119,6 +131,7 @@ footer {
   border-top: 8px solid #4aaaa5;
   height: 50px;
   margin-top: 15px; 
+  clear: both;
 }
 
 h3, h2 {
